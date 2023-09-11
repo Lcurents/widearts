@@ -1,0 +1,10 @@
+.headline {
+  margin-top: 6rem;
+  font-size: 6ch;
+}
+@media (max-width: 768px) {
+  .headline {
+    margin-top: 5rem;
+    font-size: 4ch;
+  }
+}
